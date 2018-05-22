@@ -1,5 +1,5 @@
 # Project-One
-Getting user datas from JSON file with AJAX
+Getting user data from JSON file with AJAX
 
 Installation
   In order to get this project in your desktop, you should open Git Bash Here and clone the URL (https://github.com/Rinori95/Project-One.git) or you can do a ZIP download.
